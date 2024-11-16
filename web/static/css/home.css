@@ -1,0 +1,18 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    background: #202D37;
+    background: linear-gradient(180deg, #202D37, #181834);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+body {
+    filter: (10rem);
+}
+
+.image-container{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
